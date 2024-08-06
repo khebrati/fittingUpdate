@@ -1,0 +1,14 @@
+;aiu;
+
+[Update]
+Name = Niktone for desktop
+ProductVersion = 1.0.2
+URL = https://had-ci-msi.s3.ir-thr-at1.arvanstorage.ir
+Size = 368940544
+SHA256 = 10418931E93078169167CEB28B92F13AC4F16520D096A0992829B8EBB4F40374
+MD5 = 5254ffd2249313e32ff2718f7c291d6b
+ServerFileName = Niktone for desktop-1.0.2.msi
+Flags = Critical|Sys64|Os64
+RegistryKey = HKUD\Software\Nikted\Niktone for desktop\Version
+Version = 1.0.2
+Description = updated from 1.0.1 to 1.0.2
